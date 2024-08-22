@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+xmltodict
+langchain_community
+langchain_openai
+langserve
+langchain_core
+unstructured
+faiss-cpu
+sse_starlette
