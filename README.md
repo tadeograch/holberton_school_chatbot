@@ -39,7 +39,7 @@ http://localhost:8000/holberton_school_chatbot/playground
 
 ## Aditional
 
-###[Holberton School Chatbot](https://holbertonschoolchatbot-production.up.railway.app/holberton_school_chatbot/playground/)
+### [Holberton School Chatbot](https://holbertonschoolchatbot-production.up.railway.app/holberton_school_chatbot/playground/)
 
 Check the Holberton School chatbot running in Railway
 
