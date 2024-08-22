@@ -6,3 +6,4 @@ langchain_community
 langchain_openai
 langserve
 langchain_core
+unstructured
