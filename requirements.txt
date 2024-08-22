@@ -8,3 +8,4 @@ langserve
 langchain_core
 unstructured
 faiss-cpu
+sse_starlette
