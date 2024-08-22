@@ -6,15 +6,15 @@ content of the [Holberton School Uruguay](https://holbertonschool.uy/) website, 
 ## Technologies
 This chatbot was built in python, using LangChain framework and OpenAI model. Based on [LangChain documentation](https://python.langchain.com/v0.1/docs/get_started/quickstart/) and deployed with Railway.
 ## Architecture
-<img src="">
+<img src="https://github.com/tadeograch/holberton_school_chatbot/blob/dev/docs/holberton_school_chatbot_diagram.drawio.png?raw=true">
 
 ## Installation
 
-Clone the repository of the Promtior chatbot project
+Clone the repository of the Holberton School chatbot project
 ```bash
 git clone https://github.com/tadeograch/holberton_school_chatbot.git
 ```
-Cd into promptior chatbot directory
+Cd into holberton school chatbot directory
 ```bash
 cd holberton_school_chatbot
 ```
@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 If you want to run the chatbot locally:
 ```bash
-python serve.py
+python service.py
 ```
 And to ask something you can run the client.py with your custom question, for example:
 ```bash
@@ -34,14 +34,14 @@ python client.py "How can I apply to Holberton School?"
 ```
 Or you can interact with LangServe Playground on your browser:
 ```bash
-http://localhost:8000/promtior_chatbot/playground
+http://localhost:8000/holberton_school_chatbot/playground
 ```
 
 ## Aditional
 
-###[Holberton School Chatbot]()
+###[Holberton School Chatbot](https://holbertonschoolchatbot-production.up.railway.app/holberton_school_chatbot/playground/)
 
-Check the promtior chatbot running in Railway
+Check the Holberton School chatbot running in Railway
 
 ## Overview
 
